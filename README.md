@@ -20,6 +20,4 @@ Required files for implementation</br>
 	-- vpc.tf > File that defines the custom vpc configuration.</br>
 	-- network.tf > File that defines the custom network deployment in detail.</br>
 	-- httpd.sh > script file that defines the steps to be followed once the instance is up</br>
-You may view and fork or download the “tf” files from here.</br>
-The First step is to create the key pair for your instance. From within the project directory, execute</br>
-![image](https://user-images.githubusercontent.com/87716160/162858434-0ddb449a-301f-428f-8c23-cde814d45f45.png)</br>
+You may view and fork or download the “tf” files from here.
